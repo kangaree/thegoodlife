@@ -1,0 +1,17 @@
+html {
+  background: url(HeyDays.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.text-block {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: white;
+  color: black;
+  padding: 20px;
+  opacity: .75;
+}
